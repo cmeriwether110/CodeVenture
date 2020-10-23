@@ -1,9 +1,0 @@
-correct options:
-Options1:
-Option 1 = You don't find anything, which could've been the best option for you. 
-option 1-1 = The first of the 2 options from option 1; this would take you far north where you find a cave that hides the princess.
-option 2-1 = The second of the 2 options from option 1; The hitchhiker lies to you and tells you to go far south which leads to no where.
-
-Option 2 = You find the small cabin which has a old witch that tells you to go to the "mysterious cave down under" which will eventually take you to the princess.
-option 2-1 = You enter into the cabin, and find the old witch which gives you the directions to the cave.
-option 2-2 = You opt out of going to the cabin, and decide to go to a nearby stream which gets you attacked by a bear.
